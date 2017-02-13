@@ -2,6 +2,7 @@
 Alexa skill for CaringBridge
 
 Time to get an Alexa Skill to enable interaction with CaringBridge.
+Overview: https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/overviews/understanding-the-smart-home-skill-api
 
 1st skill:  Read a journal entry
 Alexa: Ask CaringBridge to read the journal
