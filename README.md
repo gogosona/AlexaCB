@@ -1,5 +1,5 @@
 # AlexaCB
-Alexa skill for CaringBridge
+Alexa skill(s) for CaringBridge
 
 Time to get an Alexa Skill to enable interaction with CaringBridge.
 Overview: https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/overviews/understanding-the-smart-home-skill-api
