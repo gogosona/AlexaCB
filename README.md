@@ -15,4 +15,4 @@ READING THE JOURNAL
   User will have to establish link from Amazon/Alexa to CaringBridge Account
   https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/linking-an-alexa-user-with-a-user-in-your-system
   
-  
+  If CB has a publicly exposed api what does the auth look like and where is the docs?
