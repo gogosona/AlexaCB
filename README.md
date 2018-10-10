@@ -16,3 +16,4 @@ READING THE JOURNAL
   https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/linking-an-alexa-user-with-a-user-in-your-system
   
   
+Final question. How can we auth this or will it only allow only public journals?
