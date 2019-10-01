@@ -16,3 +16,4 @@ READING THE JOURNAL
   https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/linking-an-alexa-user-with-a-user-in-your-system
   
   
+sa
