@@ -1,3 +1,6 @@
+THIS BRANCH NOW BELOWS TO NICK, LUKE AND JAKE ARE NUBS
+THIS BRANCH NOW BELONS TO NICKCOWGIT
+
 # AlexaCB
 Alexa skill(s) for CaringBridge
 
@@ -14,6 +17,13 @@ Alexa: Ask CaringBridge to post comment for the journal
 READING THE JOURNAL
   User will have to establish link from Amazon/Alexa to CaringBridge Account
   https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/linking-an-alexa-user-with-a-user-in-your-system
+
+
+ Have you made any progress on this?
   
+
   
 Were do you plan to host it
+=======
+sa
+
