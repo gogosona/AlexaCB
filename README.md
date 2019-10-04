@@ -1,3 +1,6 @@
+THIS BRANCH NOW BELOWS TO NICK, LUKE AND JAKE ARE NUBS
+THIS BRANCH NOW BELONS TO NICKCOWGIT
+
 # AlexaCB
 Alexa skill(s) for CaringBridge
 
@@ -17,5 +20,15 @@ READING THE JOURNAL
 
 
  Have you made any progress on this?
+NNNNNNNNNNNNNNOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+=======
   
+
+ WHy not google home?
+      **** Google Home wasn't around when this project started
+
+Were do you plan to host it
+=======
 sa
+
+
