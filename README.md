@@ -1,4 +1,5 @@
-THIS BRANCH NOW BELONS TO LUKE
+THIS BRANCH NO more, jake was here
+
 
 # AlexaCB
 Alexa skill(s) for CaringBridge
