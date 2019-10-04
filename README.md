@@ -20,12 +20,13 @@ READING THE JOURNAL
 
 
  Have you made any progress on this?
+NNNNNNNNNNNNNNOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+=======
   
 
  WHy not google home?
       **** Google Home wasn't around when this project started
 
-  
 Were do you plan to host it
 =======
 sa
