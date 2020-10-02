@@ -23,3 +23,5 @@ Were do you plan to host it
 
  WHy not google home?
       **** Google Home wasn't around when this project started
+      
+      Looks pretty easy acutally https://developers.google.com/assistant
