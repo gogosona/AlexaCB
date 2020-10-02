@@ -16,11 +16,7 @@ READING THE JOURNAL
   https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/linking-an-alexa-user-with-a-user-in-your-system
 
 
- Have you made any progress on this?
-NNNNNNNNNNNNNNOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-=======
-  
-
+ 
   
 Were do you plan to host it
 =======
@@ -31,6 +27,3 @@ Were do you plan to host it
 Were do you plan to host it
 =======
 sa
-
-The rain in spain stays mainly on the plain.
-
